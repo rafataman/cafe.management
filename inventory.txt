@@ -1,0 +1,9 @@
+Espresso     100  250
+Latte...     100  150
+Cappucci     100  180
+IcCoffee     100  100
+Bagels..     050   120
+Donuts..     050   100
+Croissan     050   250
+Cupcakes     010   100
+Macarons     010   100

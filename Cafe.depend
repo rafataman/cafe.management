@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1687521685 source:d:\code\final practice\string modify\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1687664349 source:d:\project\string modify\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dos.h>
+
+1687669487 source:d:\project\string modify - copy\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dos.h>
+
+1687669487 source:d:\project\coffee shop management\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<dos.h>
+
